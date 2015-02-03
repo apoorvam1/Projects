@@ -7,4 +7,4 @@ Description : This app displays my personal,educational and professional informa
 
 Details :Tool used is Eclisple Juno, Minimum SDK Version - 8, Target SDK Version - 21
 
-Instruction : .apk fie can be found at the path ProjectS/myApp
+Instruction : .apk fie can be found at the path Projects/myApp
