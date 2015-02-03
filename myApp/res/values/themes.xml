@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style name="PropertyApp">
+</style>
+
+<style name="PropertyApp.ActionBar.Tab" parent="android:style/Widget.Holo.ActionBar.TabView">
+    <item name="android:background">@drawable/icon</item>
+</style>
+     
+</resources>

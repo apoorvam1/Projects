@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Explore My App</string>
+    <string name="hdr1"><b>About Me</b></string>
+    <string name="hdr2"><b>About My Education</b></string>
+    <string name="hdr3"><b>About My Work Experience</b></string>
+    <string name="section1a">Hi, I am Apoorva Mahabaleshwara. I am a Graduate student at the 
+    University of Southern California. Currently I am in my second semester and looking for summer internship oppotunities.
+     I want to work for a company that works on the leading technologies, and I feel the internship program at Zappos will
+     provide a learning curve for me.</string>
+    <string name="section1b">Keeping technical details apart, I am a fun loving person who loves to listen to music, 
+    loves photography, and absolutely in love with pets! I also engage myself in social work
+    in free time. I have been part of a self funded NGO while I was in Bangalore, India.\n\n<b>Technical
+     Information About this App</b>\n\n&#8226; Implemented the Options Item Menu, so that the app can be kept in a single page yet categorize contents 
+    into parts.\n &#8226; Reused the same TextView for all the sections by using the Visibilty 
+    feature, which makes the code more redable and simple.\n &#8226; Implemented onClick action listner for providing my Facebook and LinkedIn Links.\n&#8226; I have
+    made extensive use of string.xml file to keep the redability of the code.\n &#8226; Used an xml file to override the default theme for the page. </string>
+    
+    <string name="section2a">Master of Science in Computer Science\nViterbi
+         School of Engineering, University of Southern California.</string>
+    <string name="section2b">Bachelor of Engineering in Computer Science and Engineering. \nBangalore Institute of Technology,
+         Visvesvaraya Technological University (VTU)\nAggregate of 8 semesters – 81.17% (GPA – 3.64/4.0)\n\nMy academic projects 
+         are as follows,\n\nAndroid Application to retrieve Real estate information (2014)\n&#8226; Implemented cross domain information retrieval from www.zillow.com to
+          present the real estate information to the user.\n&#8226; Covered Web Technologies such as HTML, CSS, PHP, AJAX, JavaScript 
+          and jQuery.\n&#8226; Designed UI to present information by extracting JSON data.\n\nA Privacy Preserving Location Monitoring System for Wireless Sensor
+Networks (2012)\n&#8226; Implemented an algorithm based on two in‐network location anonymization algorithms (resource and quality‐aware), that enable the system to provide high quality 
+location monitoring services, while preserving personal location privacy.\n &#8226; Used k‐anonymity privacy concept that provides the aggregate location 
+information of monitored persons for our system.  
+    </string>
+    <string name="section3a">I have a prior work experience of 2 years at IBM India Pvt Ltd., 
+    where I worked as an application developer. \n\nDuring this period I have been involved in 2 challenging projects, detiails of which are as below,\n\nHDFC EDW Augmentation
+     (2012-13) \n&#8226; Replaced Existing data warehouse with a new data warehouse residing on Netezza server, using the IBM\'s Banking Data-Warehouse Model.\n
+    &#8226; Developed Informatica mappings involving complex SQL queries to extract legacy data and load into the Netezza server.\n\n Wellpoint Decommissioning (2013-14)\n
+    &#8226; Involved in a Healthcare project where data had to be redirected from existing
+data sources to a centralized warehouse.\n &#8226; Reverse engineered the existing legacy system mappings as well as SQL scripts and generated a functional sheet for building the warehouse solution.\n
+&#8226; Developed solutions using SQL scripts and Informatica mappings.
+
+     </string>
+    <string name="action_settings">Settings</string>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <string name = "about">Home</string>
+    <string name = "education">Education</string>
+    <string name = "work">Work</string>
+
+</resources>
